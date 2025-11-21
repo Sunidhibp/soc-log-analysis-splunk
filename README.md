@@ -119,6 +119,5 @@ Attackers primarily targeted the `root` account to gain privileged access.
 ## 📎 Project Documentation
 
 Full incident report is documented in PDF:
-👉 **Incident Report (PDF):**  
 https://github.com/Sunidhibp/soc-log-analysis-splunk/blob/main/Log%20analysis%20document.pdf
 
