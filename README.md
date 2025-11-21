@@ -118,5 +118,5 @@ Attackers primarily targeted the `root` account to gain privileged access.
 
 ## 📎 Project Documentation
 
-Full incident report in PDF:  
-👉 *(Upload your PDF and paste link here)*
+Full incident report is documented in PDF
+
